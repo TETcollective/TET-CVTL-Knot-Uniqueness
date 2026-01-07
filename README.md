@@ -31,9 +31,19 @@ We present a game-theoretic model for primordial knot selection in the TET–CVT
 - Equilibrio in poche iterazioni
 - Convergenza dominante a crossing ≈3 e L_k ≈6
 
-## License
+## Copyright and Usage Rights
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
+
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ---
 
